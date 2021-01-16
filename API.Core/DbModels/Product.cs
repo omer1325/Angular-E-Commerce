@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace API.Data.DbModels
+﻿namespace API.Core.DbModels
 {
     public class Product
     {
